@@ -1,0 +1,100 @@
+    {
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with React JS",
+      "author": "John Smith",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+      "description": "React is one of the most popular JavaScript libraries for building user interfaces. In this blog, you'll learn how to create your first React application using Vite, understand components, JSX, and props."
+    },
+    {
+      "id": 2,
+      "title": "Learn JavaScript ES6 Features",
+      "author": "Emma Johnson",
+      "category": "JavaScript",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "description": "JavaScript ES6 introduced many useful features like let, const, arrow functions, template literals, destructuring, spread operators, and modules. This guide explains them with examples."
+    },
+    {
+      "id": 3,
+      "title": "Bootstrap 5 Layout Guide",
+      "author": "Michael Brown",
+      "category": "Bootstrap",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+      "description": "Bootstrap makes responsive web design simple. Learn about the grid system, containers, rows, columns, cards, buttons, and utility classes to build beautiful websites quickly."
+    },
+    {
+      "id": 4,
+      "title": "Understanding React Router",
+      "author": "Sophia Davis",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+      "description": "React Router allows navigation between pages without reloading the browser. Learn how to use BrowserRouter, Routes, Route, Link, and useParams in your React applications."
+    },
+    {
+      "id": 5,
+      "title": "Axios API Integration",
+      "author": "David Wilson",
+      "category": "API",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "description": "Axios is a powerful HTTP client for JavaScript. Learn how to fetch, create, update, and delete data from REST APIs using Axios with React."
+    },
+    {
+      "id": 6,
+      "title": "JSON Server for Beginners",
+      "author": "Olivia Taylor",
+      "category": "Backend",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800",
+      "description": "JSON Server helps frontend developers create a fake REST API quickly. Learn how to install it, create a db.json file, and connect it with your React application."
+    },
+    {
+      "id": 7,
+      "title": "Top 10 CSS Tips",
+      "author": "Daniel Lee",
+      "category": "CSS",
+      "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800",
+      "description": "Improve your CSS skills with practical tips like Flexbox, Grid, transitions, animations, variables, responsive design, and modern layouts."
+    },
+    {
+      "id": 8,
+      "title": "Build a Responsive Navbar",
+      "author": "Emily White",
+      "category": "Bootstrap",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+      "description": "A responsive navbar is essential for every website. Learn how to create one using Bootstrap 5 with dropdown menus and mobile navigation."
+    },
+    {
+      "id": 9,
+      "title": "React Hooks Explained",
+      "author": "James Anderson",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+      "description": "Understand React Hooks including useState, useEffect, useContext, and useRef. Learn when and why to use hooks in modern React applications."
+    },
+    {
+      "id": 10,
+      "title": "Frontend Developer Roadmap 2026",
+      "author": "Sarah Miller",
+      "category": "Career",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800",
+      "description": "Explore the complete roadmap to becoming a frontend developer in 2026, including HTML, CSS, JavaScript, React, Git, APIs, TypeScript, and deployment."
+    },
+     {
+      "id": 11,
+      "title": "Getting Started with React JS",
+      "author": "Zalak Patel",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+      "description": "React is one of the most popular JavaScript libraries for building modern user interfaces. It allows developers to create reusable components, manage state efficiently, and build fast single-page applications."
+    },
+    {
+      "id": 12,
+      "title": "Introduction to Bootstrap 5",
+      "author": "Zalak Patel",
+      "category": "Bootstrap",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "description": "Bootstrap 5 is a powerful CSS framework that helps developers create responsive websites quickly. It provides a responsive grid system, ready-to-use UI components, and utility classes to speed up web development."
+    }
+  ]
+}
